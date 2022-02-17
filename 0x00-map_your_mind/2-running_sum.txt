@@ -1,0 +1,9 @@
+Spedo Code
+sum=0
+a=0
+while (a>=0)
+	read a
+	if a>=0
+		sum=sum+a
+	else exit
+
