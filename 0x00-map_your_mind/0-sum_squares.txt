@@ -1,0 +1,8 @@
+Spedo code :
+
+Read tab[]
+som=0
+while(tab[i])
+	som=som+tab[i]*tab[i]
+write som
+
